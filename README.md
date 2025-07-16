@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently interning as a **Backend Developer at Black Cherie Media**
 - 🤖 Working on intelligent systems using **Node.js**, **Python**, and **TensorFlow**
 - 🌐 Passionate about building **scalable APIs**, real-time applications, and solving real-world problems
 - 🏆 Winner of **3rd Prize at HACK-MITWPU (2024)** among 90+ teams  

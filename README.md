@@ -47,6 +47,7 @@
 - 📧 Email: gurnanivansh57@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vansh-gurnani-36a569239/)
 - 🧠 [GitHub](https://github.com/vanshgurnani)
+- 🌐 [Portfolio](https://vanshgurnani.github.io/my-portfolio/)
 
 ---
 

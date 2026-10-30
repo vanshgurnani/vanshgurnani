@@ -48,11 +48,26 @@ I'm a **Backend Developer working at the intersection of Python, distributed sys
 | [**Llama API Gateway**](https://github.com/vanshgurnani/ai-model) | OpenAI-compatible inference gateway using Cloudflare Workers AI, with API-key authentication, provider abstraction, and SSE streaming. | Python, FastAPI, Cloudflare Workers AI |
 | **Pet Emotion Detection** | BiLSTM-based emotion classification from physiological signals: 1,250+ samples, six classes, and 87% reported accuracy. | Python, TensorFlow, BiLSTM, Flask |
 
-## Technical Skills
+## Tech Stack
 
-| Category | Technologies |
+<div align="center">
+
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,flask&theme=dark" />
+
+**AI / LLM Engineering**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+**Databases, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab&theme=dark" />
+
+</div>
+
+| Area | Tools & Concepts |
 |---|---|
-| **Languages** | Python, JavaScript, TypeScript, SQL |
 | **Backend** | FastAPI, Flask, Node.js, Express, REST APIs, Async Python |
 | **AI / LLM** | LangChain, LangGraph, RAG, MCP, Tool Calling, Embeddings, Vector Databases |
 | **Databases & Queues** | MongoDB, Redis, MySQL, Celery |
@@ -68,10 +83,10 @@ I'm a **Backend Developer working at the intersection of Python, distributed sys
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanshgurnani&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgurnani&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-
 <img src="https://streak-stats.demolab.com?user=vanshgurnani&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+[![GitHub profile](https://img.shields.io/badge/GitHub-@vanshgurnani-181717?style=for-the-badge&logo=github)](https://github.com/vanshgurnani)
+[![Repositories](https://img.shields.io/badge/Public%20Repositories-Explore-2563eb?style=for-the-badge&logo=github)](https://github.com/vanshgurnani?tab=repositories)
 
 </div>
 

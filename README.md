@@ -54,15 +54,19 @@ I'm a **Backend Developer working at the intersection of Python, distributed sys
 
 **Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,flask&theme=dark"/>
 
 **AI / LLM Engineering**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge&logo=protocols.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-334155?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 **Databases, Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab&theme=dark"/>
 
 </div>
 

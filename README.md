@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Vansh%20Gurnani&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Applied%20AI%20%7C%20Python%20%26%20Node.js&descSize=16&descAlignY=60" width="100%" alt="Vansh Gurnani — Backend Developer and Applied AI Engineer"/>
+<img src="https://raw.githubusercontent.com/vanshgurnani/vanshgurnani/main/assets/profile-motion.svg" width="100%" alt="Animated SVG banner — Vansh Gurnani, Backend Developer and Applied AI Engineer"/>
 
 <a href="https://www.linkedin.com/in/vansh-gurnani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:gurnanivansh57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
